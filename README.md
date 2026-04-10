@@ -1,5 +1,5 @@
 # FreshMart Dashboard
-[Live Demo]https://saharacodie.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
+[Live Demo]https://saharacodie.github.io/fresh_mart_supermarket
 
 ## Overview
 
